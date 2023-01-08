@@ -23,9 +23,7 @@ export default function App() {
         <section id="skills" class=" px-4 grid place-items-center mt-40">
           <Skills/>
         </section>
-        <section id="projects" class=" px-4 grid place-items-center mt-40">
-          <Projects/>
-        </section>
+     
     </body>
   )
 }
