@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.1516d7d5.css",
+    "main.js": "/Portfolio/static/js/main.cd18cf33.js",
+    "static/media/GreenV.png": "/Portfolio/static/media/GreenV.1089a61a02a0e94b81cf.png",
+    "static/media/Sql.svg": "/Portfolio/static/media/Sql.317ca06fa8580e265472324279ed2809.svg",
+    "static/media/React.svg": "/Portfolio/static/media/React.b376e8bc6208d1862eed1cf4dfa637d1.svg",
+    "static/media/php.svg": "/Portfolio/static/media/php.50189de123b942c39cdaa63c549eeb33.svg",
+    "static/media/Javascript.svg": "/Portfolio/static/media/Javascript.66827aa902e7c7aa8f736cd211751da3.svg",
+    "static/media/VisionLogo.svg": "/Portfolio/static/media/VisionLogo.96b8980cb7e76337628d3828fecc3401.svg",
+    "static/media/Figma.svg": "/Portfolio/static/media/Figma.68e7241f7e7ede1fabd5e731d4c96aae.svg",
+    "static/media/Github.svg": "/Portfolio/static/media/Github.47cec01c77e6a7a69ab18e689dd3e038.svg",
+    "static/media/CSS3.svg": "/Portfolio/static/media/CSS3.c63a6f70356d141193ac71289e55b100.svg",
+    "static/media/html5.svg": "/Portfolio/static/media/html5.22f588e306a273e355d6bbe2ac80c0e0.svg",
+    "index.html": "/Portfolio/index.html",
+    "static/media/Arrow_1.svg": "/Portfolio/static/media/Arrow_1.2ac17e29c428e34b803a5e96ff521794.svg",
+    "main.1516d7d5.css.map": "/Portfolio/static/css/main.1516d7d5.css.map",
+    "main.cd18cf33.js.map": "/Portfolio/static/js/main.cd18cf33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1516d7d5.css",
+    "static/js/main.cd18cf33.js"
+  ]
+}
